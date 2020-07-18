@@ -7,7 +7,7 @@ CLI para consultar seu saldo no Ticket
 
 ## Instalação
 1. Clone o repositório
-`git clone https://github.com/raphaelmro/reactnd-project-myreads-starter.git`
+`git clone https://github.com/raphaelmro/saldo_ticket.git`
 2. Instale as dependências
 `bundle install`
 3. Execute o arquivo main.rb
